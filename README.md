@@ -1,2 +1,2 @@
 # GLGraphics
-Graphics library built using openGL with simple commands
+Swift Graphics library built using openGL with simple commands
